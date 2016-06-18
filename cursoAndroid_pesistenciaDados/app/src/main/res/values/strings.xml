@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Persistencia Dados</string>
+    <string name="tv_nome">Digite seu nome:</string>
+    <string name="bt_salvar">Salvar</string>
+    <string name="bt_sp">Shared Preferences</string>
+    <string name="bt_sql">SQLite</string>
+    <string name="bt_is">Internal Storage</string>
+    <string name="bt_es">External Storage</string>
+    <string name="adicionar">Adicionar Dado</string>
+    <string name="sem_dado">Nenhum Dado</string>
+    <string name="novo_dado">Digite um novo Dado</string>
+</resources>
